@@ -1,4 +1,4 @@
-# Projeto disponibilizado no Dio
+# Projeto Dio
 
 ### reconstruindo a pagina de login do Instagram.
 
